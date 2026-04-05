@@ -1,4 +1,4 @@
-# 01_Setup_Entorno
+# Pruebas Unitarias y Funcionales de Software (01 Setup)
 
 1. Instala Node y NPM
 2. Inicializa un nuevo proyecto de node e instala jest
